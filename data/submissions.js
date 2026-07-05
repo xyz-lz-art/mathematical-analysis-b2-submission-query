@@ -1,7 +1,7 @@
 window.SUBMISSION_DATA = {
   "course": "数学分析(B2)",
   "source": "B2提交情况_期中名单版.xlsx",
-  "generatedAt": "2026-07-03T15:37:50.313Z",
+  "generatedAt": "2026-07-05T17:28:50.580Z",
   "homeworkLabels": [
     "第1次作业",
     "第2次作业",
@@ -2367,7 +2367,7 @@ window.SUBMISSION_DATA = {
         true,
         true,
         true,
-        false
+        true
       ],
       "quizzes": [
         true,
@@ -2411,7 +2411,7 @@ window.SUBMISSION_DATA = {
         true,
         true,
         true,
-        false,
+        true,
         true,
         true,
         true,
@@ -3081,18 +3081,18 @@ window.SUBMISSION_DATA = {
         true,
         true,
         true,
-        false,
-        false,
         true,
         true,
         true,
         true,
         true,
         true,
-        false,
         true,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true
       ],
       "quizzes": [
         true,
